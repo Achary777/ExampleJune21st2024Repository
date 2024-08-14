@@ -1,4 +1,4 @@
-package com.sgtest.iofiles;
+package com.sgtest.iopackage;
 
 import java.io.File;
 
