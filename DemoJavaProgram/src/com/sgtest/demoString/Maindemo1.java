@@ -10,4 +10,4 @@ public class Maindemo1 {
 
         System.out.println("Number of characters in the string: " + characterCount);
     }
-}git
+}
